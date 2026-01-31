@@ -161,3 +161,8 @@ Manage your account and preferences.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Hackathon Context
+This project was developed as part of **TechFiesta Hackathon** , organised by **Pune Institute of Computer Technology (PICT)**
+It was collaborative **team project** built during hackathon.
+
